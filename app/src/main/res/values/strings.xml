@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">APP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Home">Home</string>
+    <string name="Contact_Us">Contact Us</string>
+    <string name="Whatsapp">WhatsApp</string>
+    <string name="Email_Us">Email Us</string>
+    <string name="Share">Share</string>
+    <string name="Register">Register</string>
+    <string name="Complete_Ur_Profile">Complete Your Profile</string>
+    <string name="Notification">Notification</string>
+    <string name="Exit">Exit</string>
+</resources>

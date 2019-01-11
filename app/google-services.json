@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66154846239",
+    "firebase_url": "https://notificationdemo-53622.firebaseio.com",
+    "project_id": "notificationdemo-53622",
+    "storage_bucket": "notificationdemo-53622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66154846239:android:9f2c64d21cfeef7c",
+        "android_client_info": {
+          "package_name": "com.mabble.notificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66154846239-9ma7jlgvf3tjie3t7q5u3he5he7t5v5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVnelYMVZa9Tn3U8QoQhaVSivSnnEgxoo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

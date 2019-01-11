@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/Home" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/contact"
+            android:title="@string/Contact_Us" />
+        <item
+            android:id="@+id/nav_whatsapp"
+            android:icon="@drawable/whatsapp"
+            android:title="@string/Whatsapp" />
+        <item
+            android:id="@+id/nav_email"
+            android:icon="@drawable/email"
+            android:title="@string/Email_Us" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/share"
+            android:title="@string/Share" />
+        <item
+            android:id="@+id/nav_register"
+            android:icon="@drawable/register"
+            android:title="@string/Register" />
+
+        <item
+            android:id="@+id/nav_complete"
+            android:icon="@drawable/user"
+            android:title="@string/Complete_Ur_Profile" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/notification"
+            android:title="@string/Notification" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/exit"
+            android:title="@string/Exit" />
+    </group>
+
+
+</menu>
